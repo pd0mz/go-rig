@@ -9,8 +9,8 @@ planning to add native hamlib support on supported platforms.
 
 ## Documentation
 
-https://godoc.org/github.com/pd0mz/go-rig
+Available at [godoc.org](https://godoc.org/github.com/pd0mz/go-rig).
 
 ## Issues
 
-Use the (GitHub issue tracker)[]
+Use the [GitHub issue tracker](https://github.com/pd0mz/go-rig/issues).
